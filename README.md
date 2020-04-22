@@ -10,9 +10,9 @@ Code for [AutoGAN: Neural Architecture Search for Generative Adversarial Network
 5. [NAT: Neural Architecture Transformer for Accurate and Compact Architectures](https://arxiv.org/abs/1910.14488)
 6. [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
 
-## Review on Reproducibility of the paper
+## Review
 
-AutoGAN is published at ICCV 2019 with 15 citations so far. 
+AutoGAN is published at ICCV 2019 with 15 citations so far. As per the guidlines in [A Step Toward Quantifying Independently Reproducible Machine Learning Research](https://arxiv.org/abs/1909.06674), the features of the paper are listed below.
 
 | Features | Comments|
 | -- | --|
@@ -33,7 +33,7 @@ AutoGAN is published at ICCV 2019 with 15 citations so far.
 |Authors Reply| na |
 |Code Available| Yes |
 |Pages|11|
-|Publication Venue| IICV|
+|Publication Venue| ICCV|
 |Number of References| 73 |
 |Number Equations| 3 |
 |Number Proofs| 0 |
@@ -43,4 +43,14 @@ AutoGAN is published at ICCV 2019 with 15 citations so far.
 |Conceptualization Figures| 4 |
 |Number of Authors| 4 |
 
+The paper should be easily reproducable with an exception on computation costs.
+
 ## Timeline
+Weekly dealine is as listed below starting from the week of April 20th.
+Week0: Literature Review and Project Proposal
+Week1: Code Implementation
+Week2: Testing and Performance Evaluation
+Week3: Improve the performance and explore applications
+Week4: Future work
+
+
