@@ -12,4 +12,35 @@ Code for [AutoGAN: Neural Architecture Search for Generative Adversarial Network
 
 ## Review on Reproducibility of the paper
 
+AutoGAN is published at ICCV 2019 with 15 citations so far. 
+
+| Features | Comments|
+| -- | --|
+|Year Published| 2019|
+|Year First Attempted| - |
+|Venue Type| Conference |
+|Rigor vs Empirical| Empirical |
+|Has Appendix| No |
+|Looks Intimidating| No |
+|Readability| Good |
+|Algorithm Difficulty| High |
+|Pseudo Code| Yes |
+|Primary Topic| NAS, GAN |
+|Exemplar Problem| No |
+|Compute Specified| No |
+|Hyperparameters Specified| Partial |
+|Compute Needed| Yes (Min 2 GPU's) |
+|Authors Reply| na |
+|Code Available| Yes |
+|Pages|11|
+|Publication Venue| IICV|
+|Number of References| 73 |
+|Number Equations| 3 |
+|Number Proofs| 0 |
+|Number Tables| 2 |
+|Number Graph/Plots| 4 |
+|Number Other Figures| 2 |
+|Conceptualization Figures| 4 |
+|Number of Authors| 4 |
+
 ## Timeline
