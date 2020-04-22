@@ -47,6 +47,7 @@ The paper should be easily reproducable with an exception on computation costs.
 
 ## Timeline
 Weekly dealine is as listed below starting from the week of April 20th.  
+  
 Week0: Literature Review and Project Proposal  
 Week1: Code Implementation  
 Week2: Testing and Performance Evaluation  
