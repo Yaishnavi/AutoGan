@@ -12,7 +12,7 @@ Code for [AutoGAN: Neural Architecture Search for Generative Adversarial Network
 
 ## Review
 
-AutoGAN is published at ICCV 2019 with 15 citations so far. As per the guidlines in [A Step Toward Quantifying Independently Reproducible Machine Learning Research](https://arxiv.org/abs/1909.06674), the features of the paper are listed below.
+AutoGAN is published at ICCV 2019. As per the guidlines in [A Step Toward Quantifying Independently Reproducible Machine Learning Research](https://arxiv.org/abs/1909.06674), the features of the paper are listed below.
 
 | Features | Comments|
 | -- | --|
