@@ -29,7 +29,7 @@ AutoGAN is published at ICCV 2019 with 15 citations so far. As per the guidlines
 |Exemplar Problem| No |
 |Compute Specified| No |
 |Hyperparameters Specified| Partial |
-|Compute Needed| Yes (Min 2 GPU's) |
+|Compute Needed| Yes |
 |Authors Reply| na |
 |Code Available| Yes |
 |Pages|11|
@@ -46,11 +46,11 @@ AutoGAN is published at ICCV 2019 with 15 citations so far. As per the guidlines
 The paper should be easily reproducable with an exception on computation costs.
 
 ## Timeline
-Weekly dealine is as listed below starting from the week of April 20th.
-Week0: Literature Review and Project Proposal
-Week1: Code Implementation
-Week2: Testing and Performance Evaluation
-Week3: Improve the performance and explore applications
-Week4: Future work
+Weekly dealine is as listed below starting from the week of April 20th.  
+Week0: Literature Review and Project Proposal  
+Week1: Code Implementation  
+Week2: Testing and Performance Evaluation  
+Week3: Improve the performance and explore applications  
+Week4: Future work  
 
 
