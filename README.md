@@ -1,12 +1,12 @@
 # AutoGAN
 
 Paper:  
-[AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/abs/1908.03835). 
+* [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/abs/1908.03835). 
   
   
 Data: 
-* [Cifar10](https://www.cs.toronto.edu/~kriz/cifar.html) 
-* [stl10](http://ai.stanford.edu/~acoates/stl10/)
+* [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) 
+* [STL-10](http://ai.stanford.edu/~acoates/stl10/)
 
 ## References:
 1. [AutoGAN code implementation](https://github.com/TAMU-VITA/AutoGAN)
