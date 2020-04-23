@@ -1,6 +1,12 @@
 # AutoGAN
 
-Paper for [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/abs/1908.03835).
+Paper:  
+[AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/abs/1908.03835). 
+  
+  
+Data: 
+* [Cifar10](https://www.cs.toronto.edu/~kriz/cifar.html) 
+* [stl10](http://ai.stanford.edu/~acoates/stl10/)
 
 ## References:
 1. [AutoGAN code implementation](https://github.com/TAMU-VITA/AutoGAN)
@@ -48,7 +54,7 @@ The paper should be easily reproducable with an exception on computation costs.
 ## Timeline
 Weekly dealine is as listed below starting from the week of April 20th.  
   
-Week0: Literature Review and Project Proposal  
+Week0: Literature Review and Project Proposal.  
 Week1: Setup the evaluation pipeline. Download the pre-trained code and test the code.   
 Week2: Training and performance evaluation.   
 Week3: Improve the performance and explore applications.   
