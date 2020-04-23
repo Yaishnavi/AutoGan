@@ -1,6 +1,6 @@
 # AutoGAN
 
-Code for [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/abs/1908.03835).
+Paper for [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/abs/1908.03835).
 
 ## References:
 1. [AutoGAN code implementation](https://github.com/TAMU-VITA/AutoGAN)
