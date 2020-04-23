@@ -49,9 +49,9 @@ The paper should be easily reproducable with an exception on computation costs.
 Weekly dealine is as listed below starting from the week of April 20th.  
   
 Week0: Literature Review and Project Proposal  
-Week1: Code Implementation  
-Week2: Testing and Performance Evaluation  
-Week3: Improve the performance and explore applications  
-Week4: Future work  
+Week1: Setup the evaluation pipeline. Download the pre-trained code and test the code.   
+Week2: Training and performance evaluation.   
+Week3: Improve the performance and explore applications.   
+Week4: Future work  ...   
 
 
