@@ -15,6 +15,7 @@ Data:
 4. [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/pdf/1802.03268.pdf)
 5. [NAT: Neural Architecture Transformer for Accurate and Compact Architectures](https://arxiv.org/abs/1910.14488)
 6. [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
+7. [FID Score - GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500)
 
 ## Review
 
