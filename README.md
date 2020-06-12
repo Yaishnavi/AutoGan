@@ -43,7 +43,7 @@ AutoGAN is published at ICCV 2019. As per the guidlines in [A Step Toward Quanti
 |Number of Authors| 4 |
 
 The paper should be easily reproducable which needs a GPU for training and testing.  
-Specifically use ``` tensorflow-gpu-1.14.0 ``` and ``` Cuda 10.0```. Higher versions will cause exceptions. 
+Specifically use ``` tensorflow-gpu <= 1.14.0 ``` and ``` Cuda <= 10.0```. Higher versions will cause exceptions. 
 
 ## Set-up
 python >= 3.6  
