@@ -46,12 +46,16 @@ The paper should be easily reproducable which needs a GPU for training and testi
 Specifically use ``` tensorflow-gpu <= 1.14.0 ``` and ``` Cuda <= 10.0```. Higher versions will cause exceptions. 
 
 ## Set-up
-python >= 3.6  
-torch >= 1.1.0  
-``` pip install -r requirements.txt ```
+``` python >= 3.6 ``` 
+``` torch >= 1.1.0 ```
+``` 
+pip install -r requirements.txt 
+```
 
 ## How to search & train the derived architecture
-``` sh exps/autogan_search.sh ```  
+``` 
+sh exps/autogan_search.sh 
+```  
 To train from scratch and get the performance of your discovered architecture, run the following command (you should replace the architecture vector following "--arch" with yours):  
 ```
 python train_derived.py \
@@ -81,7 +85,9 @@ python train_derived.py \
 
 ## How to train & test the discovered architecture reported in the paper
 ### Train
-``` sh exps/autogan_cifar10_a.sh ```
+``` 
+sh exps/autogan_cifar10_a.sh 
+```
 ### Test
 ```
 python test.py \
